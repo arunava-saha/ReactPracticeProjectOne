@@ -7,6 +7,12 @@ function App() {
       className="w-full h-screen duration-200"
       style={{ backgroundColor: color }}
     >
+      <div className="fixed flex flex-wrap px-4 py-2  inset-x-0 top-4 justify-center">
+        <h2 className="text-4xl p-3 bg-slate-300 rounded-3xl text-yellow-700 font-bold">
+          BG - Changer
+        </h2>
+      </div>
+
       <div className="fixed flex rounded-xl flex-wrap px-4 py-2 inset-x-0 bottom-10 justify-center">
         <div className="flex flex-wrap justify-center gap-4 shadow-2xl font-bold bg-slate-400 rounded-3xl px-3 py-2">
           <button
