@@ -20,16 +20,19 @@ You can see a live demo of BG Changer here: [Demo Link](#) (Replace with the act
 To run this project locally on your machine, follow these steps:
 
 1. Clone the repository to your local machine:
+   
    ```bash
    git clone https://github.com/arunava-saha/ReactPracticeProjectOne.git
    ```
 
 2. Navigate to the project directory:
+   
   ```bash
   cd bg-changer
   ```
 
 3. Install the project dependencies using npm:
+   
   ```bash
     npm install
   ```
